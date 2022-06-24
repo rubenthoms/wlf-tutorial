@@ -1,0 +1,8 @@
+title: Population Analysis
+
+layout:
+  - page: Population Analysis
+    icon: group
+    content: 
+      - PopulationAnalysis:
+          path_to_population_data_csv_file: ./data/population-estimates.csv
